@@ -1,0 +1,12 @@
+# esta linha eh um comentário
+
+# temos 3 options to ignore
+
+# colocar o nome do arquivo
+lib01.lib
+
+mascara para extensão do arquivo
+*.lib
+
+# ignorar pasta inteira
+/biblioteca
